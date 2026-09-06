@@ -1,20 +1,28 @@
 # Linux-Setup
+
 Personal Arch Linux (Hyprland) configuration for future cases.
 Steps for setting up after a fresh install. Install these for setting up the basic files :
 
 1. firefox
 2. fish shell
-3. waybar (https://github.com/Alexays/Waybar)
-4. hyprlock
-5. hyprlauncher
-6. hyprpaper [or hyprquickpaper (https://github.com/iamsurjog/hyprquickpaper)]
-7. hypridle
-8. wlogout (https://github.com/ArtsyMacaw/wlogout)
-9. Sway Notification Centre (https://github.com/ErikReider/SwayNotificationCenter)
-10. pavucontrol
-11. yay (https://github.com/Jguer/yay)
+3. Fonts (noto-font-cjk, JetBrains Nerd Font, nerd-fonts-symbols)
+4. gedit (text editor and later Code-OSS)
+5. yay (https://github.com/Jguer/yay)
+6. waybar (https://github.com/Alexays/Waybar)
+7. hyprlock
+8. hyprlauncher
+9. hyprpaper [or hyprquickpaper (https://github.com/iamsurjog/hyprquickpaper)]
+10. hypridle
+11. wlogout (https://github.com/ArtsyMacaw/wlogout)
+12. Sway Notification Centre (https://github.com/ErikReider/SwayNotificationCenter)
+13. pavucontrol
+14. 
        
 # Possible places for error:
-1. Install pulsewire instead of pipewire for audio.
-2. Check if its swww or awww for setting up hyprquickpaper.
-3. 
+
+1. Do a system update first to check for updates.
+2. Use xdg-user-dirs-update to update the directories so that the Pictures, Music, Downloads etc folders show up.
+3. Change the shell from kitty to fish using (chsh -s /bin/fish)
+4. Install pulsewire instead of pipewire for audio.
+5. Check if its swww or awww while setting up hyprquickpaper in commands.sh and if it doesn't work change awww/swww --> /usr/bin/awww or /usr/bin/swww
+6. 
