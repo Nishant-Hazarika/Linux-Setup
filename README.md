@@ -7,7 +7,7 @@ Steps for setting up after a fresh install. Install these for setting up the bas
 2. fish shell
 3. gedit (text editor and later Code-OSS)
 4. yay (https://github.com/Jguer/yay)
-5. waybar-git
+5. waybar-git (through yay)
 6. hyprlock
 7. hyprlauncher
 8. hyprpaper [or hyprquickpaper (https://github.com/iamsurjog/hyprquickpaper)]
