@@ -5,17 +5,16 @@ Steps for setting up after a fresh install. Install these for setting up the bas
 
 1. firefox
 2. fish shell
-3. 
-4. gedit (text editor and later Code-OSS)
-5. yay (https://github.com/Jguer/yay)
-6. waybar (https://github.com/Alexays/Waybar)
-7. hyprlock
-8. hyprlauncher
-9. hyprpaper [or hyprquickpaper (https://github.com/iamsurjog/hyprquickpaper)]
-10. hypridle
-11. wlogout (https://github.com/ArtsyMacaw/wlogout)
-12. Sway Notification Centre (https://github.com/ErikReider/SwayNotificationCenter)
-13. pavucontrol
+3. gedit (text editor and later Code-OSS)
+4. yay (https://github.com/Jguer/yay)
+5. waybar (https://github.com/Alexays/Waybar)
+6. hyprlock
+7. hyprlauncher
+8. hyprpaper [or hyprquickpaper (https://github.com/iamsurjog/hyprquickpaper)]
+9. hypridle
+10. wlogout (https://github.com/ArtsyMacaw/wlogout)
+11. Sway Notification Centre (https://github.com/ErikReider/SwayNotificationCenter)
+12. pavucontrol
        
 # **Possible places for error:**
 
